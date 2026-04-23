@@ -1,8 +1,6 @@
 # end-to-end-wine-quality-prediction
 This is a Machine Learning end to end project
 
-![Wine Logo](https://github.com/your-username/wine-quality-ml/raw/main/wine-logo.png)
-
 # Project Overview
 This project focuses on predicting the quality of wine using machine learning techniques. The model analyzes various physicochemical properties of wine to determine whether the quality is good or not.
 
@@ -10,41 +8,41 @@ The goal is to build a robust classification model that can help in quality asse
 
 # Dataset Description
 The dataset contains chemical properties of wine samples. Key features include:
-Fixed Acidity
-Volatile Acidity
-Citric Acid
-Residual Sugar
-Chlorides
-Free Sulfur Dioxide
-Total Sulfur Dioxide
-Density
-pH
-Sulphates
+Fixed Acidity, 
+Volatile Acidity, 
+Citric Acid, 
+Residual Sugar, 
+Chlorides, 
+Free Sulfur Dioxide, 
+Total Sulfur Dioxide, 
+Density, 
+pH, 
+Sulphates, 
 Alcohol
 
 🎯 Target Variable:
 Quality (Wine quality score)
 
 # Technologies Used
-Python 
-Pandas
-NumPy
-Scikit-learn
+Python, 
+Pandas, 
+NumPy, 
+Scikit-learn, 
 Matplotlib / Seaborn
 
 # Project Workflow
-Data Loading
+Data Loading,
 Data Cleaning
 -- Handling missing values
 -- Removing unnecessary columns
-Exploratory Data Analysis (EDA)
-Feature Engineering
+Exploratory Data Analysis (EDA), 
+Feature Engineering, 
 Data Preprocessing
 -- Scaling
 -- Encoding (if required)
-Model Building
+Model Building, 
 -- Random Forest / Logistic Regression / etc.
-Model Evaluation
+Model Evaluation, 
 -- Accuracy
 -- F1 Score
 -- Classification Report
