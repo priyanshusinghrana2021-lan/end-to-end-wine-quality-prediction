@@ -48,6 +48,5 @@ Model Evaluation
 -- Classification Report
 
 # Model Performance
--- Accuracy: XX%
--- F1 Score: XX
+-- Accuracy: 84% -- F1 Score: 84
 
