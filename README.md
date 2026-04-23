@@ -1,7 +1,7 @@
 # end-to-end-wine-quality-prediction
 This is a Machine Learning end to end project
 
-![wineQT Logo](
+![Wine Logo](https://github.com/your-username/wine-quality-ml/raw/main/wine-logo.png)
 
 # Project Overview
 This project focuses on predicting the quality of wine using machine learning techniques. The model analyzes various physicochemical properties of wine to determine whether the quality is good or not.
